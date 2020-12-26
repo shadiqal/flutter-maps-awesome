@@ -2,15 +2,16 @@
 
 Aplikasi maps dengan flutter.
 
-## Getting Started
+## Intro
 
-This project is a starting point for a Flutter application.
+Aplikasi maps ini bersifat open source, dimana dapat menggunakan dan memodifikasi secara bebas
 
-A few resources to get you started if this is your first Flutter project:
+Fitur tersedia :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Geolocation
+- Autocomplete search form
+- Dynamic camera control
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ikuti sosial media kami di 
+[Kuliah koding](https://www.facebook.com/kuliahkoding), agar dapat info terbaru,
+edukasi, terkait pemrograman.
